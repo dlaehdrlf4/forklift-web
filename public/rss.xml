@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>지게차정비365 - 지게차 관리 솔루션</title>
-    <link>https://forklift365.app</link>
+    <link>https://forklift-web.vercel.app</link>
     <description>지게차 정보 등록부터 유지보수 이력 관리까지 종합적인 지게차 관리 솔루션</description>
     <language>ko-KR</language>
     <copyright>Copyright 2025 지게차정비365. All rights reserved.</copyright>
@@ -13,11 +13,11 @@
     <category>Mobile App</category>
     <category>Lifestyle</category>
     <category>Productivity</category>
-    <atom:link href="https://forklift365.app/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://forklift-web.vercel.app/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
-      <url>https://forklift365.app/images/qr-code.png</url>
+      <url>https://forklift-web.vercel.app/images/qr-code.png</url>
       <title>지게차정비365</title>
-      <link>https://forklift365.app</link>
+      <link>https://forklift-web.vercel.app</link>
       <width>144</width>
       <height>144</height>
       <description>지게차정비365 - 지게차 관리 솔루션</description>
@@ -25,14 +25,14 @@
     
     <item>
       <title>지게차정비365 - 지게차 관리 솔루션 출시</title>
-      <link>https://forklift365.app</link>
+      <link>https://forklift-web.vercel.app</link>
       <description>
         지게차 정보 등록부터 유지보수 이력 관리까지 종합적인 지게차 관리 솔루션을 제공하는 앱입니다.
         직관적인 사용자 인터페이스로 지게차의 모든 정보를 체계적으로 관리하고, 
         유지보수 이력을 추적하여 안전하고 효율적인 운영을 지원합니다.
       </description>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://forklift365.app</guid>
+      <guid isPermaLink="true">https://forklift-web.vercel.app</guid>
       <category>Mobile App</category>
       <category>Lifestyle</category>
     </item>

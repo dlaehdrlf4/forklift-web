@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>지게차정비365 - 지게차 관리 솔루션</title>
   <subtitle>지게차 정보 등록부터 유지보수 이력 관리까지 종합적인 지게차 관리 솔루션</subtitle>
-  <link href="https://forklift365.app"/>
-  <link href="https://forklift365.app/feed.xml" rel="self" type="application/atom+xml"/>
-  <id>https://forklift365.app</id>
+  <link href="https://forklift-web.vercel.app"/>
+  <link href="https://forklift-web.vercel.app/feed.xml" rel="self" type="application/atom+xml"/>
+  <id>https://forklift-web.vercel.app</id>
   <updated>2025-01-11T00:00:00+09:00</updated>
   
   <author>
@@ -16,8 +16,8 @@
   
   <entry>
     <title>지게차정비365 - 지게차 관리 솔루션 출시</title>
-    <link href="https://forklift365.app"/>
-    <id>https://forklift365.app</id>
+    <link href="https://forklift-web.vercel.app"/>
+    <id>https://forklift-web.vercel.app</id>
     <published>2025-01-11T00:00:00+09:00</published>
     <updated>2025-01-11T00:00:00+09:00</updated>
     <summary>
