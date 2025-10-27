@@ -1,0 +1,24 @@
+# robots.txt for 지게차정비365
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Naver
+User-agent: Yeti
+Allow: /
+
+# Daum
+User-agent: Daumoa
+Allow: /
+
+# Sitemap
+Sitemap: https://forklift365.app/sitemap.xml
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>지게차정비365 - 지게차 관리 솔루션</title>
+  <subtitle>지게차 정보 등록부터 유지보수 이력 관리까지 종합적인 지게차 관리 솔루션</subtitle>
+  <link href="https://forklift365.app"/>
+  <link href="https://forklift365.app/feed.xml" rel="self" type="application/atom+xml"/>
+  <id>https://forklift365.app</id>
+  <updated>2025-01-11T00:00:00+09:00</updated>
+  
+  <author>
+    <name>Tyler</name>
+    <email>dlaehdrlf4@naver.com</email>
+  </author>
+  
+  <rights>Copyright 2025 지게차정비365. All rights reserved.</rights>
+  
+  <entry>
+    <title>지게차정비365 - 지게차 관리 솔루션 출시</title>
+    <link href="https://forklift365.app"/>
+    <id>https://forklift365.app</id>
+    <published>2025-01-11T00:00:00+09:00</published>
+    <updated>2025-01-11T00:00:00+09:00</updated>
+    <summary>
+      지게차 정보 등록부터 유지보수 이력 관리까지 종합적인 지게차 관리 솔루션을 제공하는 앱입니다.
+      직관적인 사용자 인터페이스로 지게차의 모든 정보를 체계적으로 관리하고, 
+      유지보수 이력을 추적하여 안전하고 효율적인 운영을 지원합니다.
+    </summary>
+    <content type="html">
+      &lt;p&gt;지게차정비365는 지게차 정보 등록부터 유지보수 이력 관리까지 종합적인 지게차 관리 솔루션을 제공합니다.&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;주요 기능:&lt;/strong&gt;&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;지게차 정보 등록 및 관리&lt;/li&gt;
+        &lt;li&gt;유지보수 이력 관리&lt;/li&gt;
+        &lt;li&gt;직관적인 인터페이스&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;Google Play Store에서 지게차정비365 앱을 무료로 다운로드하고 효율적인 지게차 관리를 시작하세요.&lt;/p&gt;
+    </content>
+    <category term="Mobile App"/>
+    <category term="Lifestyle"/>
+    <category term="Productivity"/>
+  </entry>
+</feed>
+
